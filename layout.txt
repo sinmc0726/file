@@ -3,4 +3,19 @@ html 뼈대를 만들고
 css로 디자인을 한다.
 javascript & jQuery로
 제어 (이벤트, 애니메이션...)을 한다.
+
 WEBAPP : jQueryMobile, React.js, Vue.js
+
+react 공부하기
+vue 공부하기
+node.js 공부하기
+
+cordova 공부하기
+phonegap 공부하기
+
+view 공부하기
+php 공부하기
+mysql 공부하기
+git 깃공부하기
+java 공부하기
+jsp 공부하기
